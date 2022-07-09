@@ -16,6 +16,11 @@ body{
     font-family: 'Outfit', sans-serif;
 }
 
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .card{
     width: 330px;
     height: 500px;
