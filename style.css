@@ -76,3 +76,13 @@ main{
     margin-top: -10px;
 
 }
+
+@media screen and (max-width: 600px){
+    .card{
+        width: 90%;
+        height: 490px;
+    }
+    .down h3{
+        margin-top: 20px;
+    }
+}
